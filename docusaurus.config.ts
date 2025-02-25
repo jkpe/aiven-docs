@@ -94,7 +94,7 @@ const config: Config = {
       'data-name': 'Aiven Agent',
       'data-primary-color': '#FF3554',
       'data-secondary-color': '#FFFFFF',
-      'data-button-background-color': '#FFB719',
+      'data-button-background-color': '#FFFFFF',
       'data-starting-message': 'Hello! How can I help you today?',
       'data-logo': 'https://cdn.sanity.io/images/o0o2tn5x/production/3fb675d5a94de770ad89c759764425718aa89239-1500x1500.png',
     },
