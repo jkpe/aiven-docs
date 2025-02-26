@@ -15,7 +15,7 @@ const config: Config = {
   title: 'Aiven docs',
   tagline: 'Your trusted data & AI platform',
   favicon: 'images/favicon.ico',
-  url: 'https://oyster-app-w96ko.ondigitalocean.app/',
+  url: 'https://shark-app-zur6f.ondigitalocean.app/',
   baseUrl: process.env.BASEURL || '/docs/',
   organizationName: 'Aiven',
   projectName: 'docs',
