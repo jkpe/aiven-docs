@@ -87,10 +87,10 @@ const config: Config = {
     },
     {src: '/docs/page_scripts/onetrust.js', async: true},
     {
-      src: 'https://agent-757416756e1a9fa90c6e-wexoc.ondigitalocean.app/static/chatbot/widget.js',
+      src: 'https://agent-16602c54e87bb13220d4-5azrx.ondigitalocean.app/static/chatbot/widget.js',
       async: true,
-      'data-agent-id': '2617475f-f373-11ef-bf8f-4e013e2ddde4',
-      'data-chatbot-id': 'jWIgB3OaehviNpkoRjjvUVtXj4tD7vGj',
+      'data-agent-id': 'ee47789c-f453-11ef-bf8f-4e013e2ddde4',
+      'data-chatbot-id': 'hhxbUwjOOgLq7Si8-G01WGTZmpCFitaF',
       'data-name': 'Aiven Agent',
       'data-primary-color': '#FFFFFF',
       'data-secondary-color': '#FF3554',
